@@ -6,6 +6,7 @@ Convolutional Neural Networks (CNN)
 Video Classification
 	Video classification is different from image classification, because in addition to the spatial data (a single frame), the temporal data (difference between frames) must also be taken into account.
 
-We used the UCF101 - Action Recognition Data Set to train and test our network. It contains 13320 videos split into 101 categories, such as archery, juggling, haircut, knitting, etc.
 
-We took 10 still frames evenly spaced through each of the videos, put each through a separate convolution layer, and then added them together before putting that through the rest of the network.
+Method
+	We used the UCF101 - Action Recognition Data Set to train and test our network. It contains 13320 videos split into 101 categories, such as archery, juggling, haircut, knitting, etc.
+	We took 10 still frames evenly spaced through each of the videos, put each through a separate convolution layer, and then added them together before putting that through the rest of the network.
