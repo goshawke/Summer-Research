@@ -2,7 +2,7 @@ Introduction
 Machine Learning
 	Machine learning is a subfield of artificial intelligence study that is focused on [getting computers to make decisions about new data, based on a model from data it has already been given] [needs slightly paraphrased]
 Convolutional Neural Networks (CNN)
-	CNNs are a form of machine learning algorithm commonly used for analyzing visual data. They use multiple hidden layers to perform a variety of transformations on the data to categorize it.
+	CNNs are a form of machine learning algorithm commonly used for analyzing visual data. They use multiple hidden layers to perform a variety of transformations on the data to categorize it. We took some inspiration from  [previous research into the subject] such as AlexNet and ImageNet
 Video Classification
 	Video classification is different from image classification, because in addition to the spatial data (a single frame), the temporal data (difference between frames) must also be taken into account.
 
