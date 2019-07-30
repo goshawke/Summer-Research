@@ -7,4 +7,4 @@ Video Classification
 	Video classification is different from image classification, because in addition to the spatial data (a single frame), the temporal data (difference between frames) must also be taken into account.
 
 
-We used the UCF101 - Action Recognition Data Set to train and test our network
+We used the UCF101 - Action Recognition Data Set to train and test our network. It contains 13320 videos split into 101 categories, such as archery, juggling, haircut, knitting, etc.
